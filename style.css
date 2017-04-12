@@ -100,10 +100,12 @@
   font-size: 40px;
   font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
   color: #777;
-  position: relative;
+  position: absolute;
   top: 700px;
   margin-top: 20px;
   margin-bottom: 400px;
+  top: 1080px;
+  width: 1396px;
 
 }
 
