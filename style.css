@@ -31,7 +31,7 @@
 
 #section {
   background: #ebebeb;
-  width: 690px;
+  width: 500px;
   text-align: center;
   position: absolute;
   padding: 100px;
@@ -40,6 +40,7 @@
   color: #777;
   margin-right: 20px;
   height: 500px;
+  display: inline-block;
 
 }
 
@@ -84,10 +85,11 @@
   text-align: center;
   font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
   font-size: 40px;
-  width: 578px;
+  width: 520px;
   height: 700px;
   /*height: 100%;*/
   left: 960px;
+  display: inline-block;
   
  
 
@@ -95,8 +97,8 @@
 
 #footer {
   background: #ebebeb;
-  text-align: center;
   padding: 50px;
+  padding-left: 610px;
   font-size: 40px;
   font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
   color: #777;
@@ -105,8 +107,16 @@
   margin-top: 20px;
   margin-bottom: 400px;
   top: 1080px;
-  width: 1396px;
-
+  width: 590px;
+/*position: relative;
+  height: 100px;*/
+ /*background: #ebebeb;
+  text-align: center;
+  padding: 50px;
+  font-size: 40px;
+  font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+  color: #777;
+*/
 }
 
 .main {
